@@ -17,6 +17,9 @@ body {
   width: 800px;
   height: 400px;
   overflow: hidden;
+  box-shadow: 3px 3px 4px black;
+  border: 4px groove white;
+  border-radius: 10px;
 }
 
 .slides {
