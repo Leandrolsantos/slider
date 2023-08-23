@@ -1,14 +1,14 @@
 # Slider - Top 5 Best Movies
 
-![](./)
+![](./assets/img/1.jpg)
 
-![](./)
+![](./assets/img/2.jpg)
 
-![](./)
-
-![](./)
+![](./assets/img/3g.gif)
 
 Deploy: (EM BREVE)
+
+Youtube: https://youtu.be/UOwc0YJGY8A?si=dW9irOXmawmuUMex
 
 ## Sobre
 
@@ -24,7 +24,7 @@ To understand how a slide works using HTML, CSS and JS.
 
 ### Conclusão
 
-(EM BREVE)
+It was a fun project to do, it´s my first slider and i plan to make others more complex and with more images.
 
 ### Ferramentas Utilizadas
 
