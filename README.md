@@ -6,7 +6,7 @@
 
 ![](./assets/img/3g.gif)
 
-Deploy: (EM BREVE)
+Deploy: https://slider-blue.vercel.app/
 
 Youtube: https://youtu.be/UOwc0YJGY8A?si=dW9irOXmawmuUMex
 
