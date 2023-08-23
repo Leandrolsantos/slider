@@ -8,7 +8,7 @@
 
 Deploy: https://slider-blue.vercel.app/
 
-Youtube: https://youtu.be/UOwc0YJGY8A?si=dW9irOXmawmuUMex
+Youtube: https://youtu.be/UOwc0YJGY8A?si=ZcclVaF9MTjpgJNd
 
 ## Sobre
 
