@@ -20,7 +20,7 @@ To learn how to create a slide using HTML, CSS and Javascript.
 
 ### Desafio
 
-To understand how a slide works using HTML, CSS and JS.
+To understand how a slide works using HTML, CSS and Javascript.
 
 ### Conclusão
 
