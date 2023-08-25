@@ -24,7 +24,7 @@ To understand how a slide works using HTML, CSS and Javascript.
 
 ### Conclusão
 
-It was a fun project to do, it´s my first slider and i plan to make others more complex and with more images. I really enjoyed to do this project, it was a great practice to learn my first step towards this kind of application for web development
+It was a fun project to do, it´s my first slider and i plan to make others more complex and with more images. I really enjoyed do this project, it was a great practice to learn my first step towards this kind of application for web development
 
 ### Ferramentas Utilizadas
 
